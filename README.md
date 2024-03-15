@@ -12,3 +12,5 @@ Fungsi Tombol_2 memiliki 2 parameter yaitu isiPesan dan namaTombol, pada <b>page
 
 1. Tidak ada perbedaan
 2. Untuk menghindari redundan dan bug pada aplikasi react
+
+### Penjelasan Praktikum 6
